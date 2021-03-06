@@ -13,7 +13,7 @@
 ---
 Заголовке необходимо указать: X-Auth-Token: [токен]
 
-Загловок запроса должен содержать: Content-Type: application/json  
+Заголовок запроса должен содержать: Content-Type: application/json  
 Endpoint: POST /shortlink  
 
 Тело запроса должно быть формата JSON:  
